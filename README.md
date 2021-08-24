@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [ solution URL ](https://your-solution-url.com)
+- Solution URL: [ solution URL ](https://www.frontendmentor.io/solutions/responsive-site-using-html-and-css-fSOrIJdsC)
 - Live Site URL: [ live site URL ](https://priyadharshini1700.github.io/social-proof-section-master/)
 
 ## My process
